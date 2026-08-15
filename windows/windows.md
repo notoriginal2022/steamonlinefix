@@ -2,7 +2,7 @@
 
 ## Instructions
 
-just run run.bat
+just put your game bin and run run.bat
 
 ## Alterantivly:
 
