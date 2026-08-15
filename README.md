@@ -4,7 +4,7 @@ DISCLAIMER: THIS IS EDUCATIONAL PURPOSE ONLY DON't USE ANYTHING HERE ONLY READ A
 
 ## How to use
 
-first you need steam obviously and you will need to install spacewar [here](https://ha.mr/#6GyJnyF8=K,)
+first you need steam obviously and you will need to install spacewar just type steam://install/480/ in your browser search bar
 
 after that you can go to windows/windows.md or linux/linux.md to see the next instructions
 
