@@ -6,7 +6,9 @@ DISCLAIMER: THIS IS EDUCATIONAL PURPOSE ONLY DON't USE ANYTHING SHOWN HERE ONLY 
 
 first you need steam obviously and you will need to install spacewar just type steam://install/480/ in your browser search bar
 
-after that you can go to windows/windows.md or linux/linux.md to see the next instructions
+then go here: 
+[windows](https://github.com/notoriginal2022/steamonlinefix/blob/main/windows/windows.md)
+[linux](https://github.com/notoriginal2022/steamonlinefix/blob/main/linux/linux.md)
 
 ## Note 
 
